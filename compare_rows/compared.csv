@@ -1,0 +1,5 @@
+﻿a,b,res
+10,20,not equal
+20,20,equal
+30,40,not equal
+40,40,equal
